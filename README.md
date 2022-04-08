@@ -6,7 +6,7 @@ odld aasf full ib deobfuscator contains full deobf engine can be propagated to o
 
 third party: ANTLR used for sum lua analysis
 
-made in 2021 july/august till novemember i stopped updating lo
+made in 2021 july/august till novemember i stopped working on it i moved on
 
 # REMOVED FILES
 devirtualizer_main.cpp (thread safety not complete)
