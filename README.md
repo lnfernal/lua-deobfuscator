@@ -31,6 +31,7 @@ make vm handler priority (which vm identifier to attempt verify first, and so on
 rewrite all cfg passes, add new ones too
 
 # SUPPORT (omg cyclothymic blocks me on Discord im a poor skid)
-just dont dm him and fuck urself skid literally learn how to read code
+i dont even care or give a sht i dont work on this project anymor so stfu
+
 
 p.s  codeine is op :)))
