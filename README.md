@@ -7,7 +7,7 @@ odld aasf full ib deobfuscator contains full deobf engine can be propagated to o
 
 third party: ANTLR for lua analysis to CST
 
-made in 2021 july/august till novemember
+made in 2021 july/august till novemember i stopped updating lo
 
 # REMOVED FILES
 devirtualizer_main.cpp (thread safety not complete)
