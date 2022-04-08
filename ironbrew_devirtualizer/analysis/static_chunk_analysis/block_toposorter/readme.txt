@@ -1,0 +1,1 @@
+sorts basic block DAG with heruistic algorithms, removes unreachable basic blocks and orderes them by their sucessors.

@@ -1,0 +1,1 @@
+serializes a vanilla proto into its format

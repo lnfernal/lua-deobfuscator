@@ -1,0 +1,48 @@
+#pragma once
+
+// todo add 3 custom vm opcodes ?
+
+// lua opcodes
+
+#include "identifiers/add_identifier.hpp"
+#include "identifiers/call_identifier.hpp"
+#include "identifiers/close_identifier.hpp"
+#include "identifiers/closure_identifier.hpp"
+#include "identifiers/concat_identfier.hpp"
+#include "identifiers/div_identifier.hpp"
+#include "identifiers/eq_identifier.hpp"
+#include "identifiers/forloop_identifier.hpp"
+#include "identifiers/forprep_identifier.hpp"
+#include "identifiers/getglobal_identifier.hpp"
+#include "identifiers/gettable_identifier.hpp"
+#include "identifiers/getupval_identifier.hpp"
+#include "identifiers/jmp_identifier.hpp"
+#include "identifiers/le_identifier.hpp"
+#include "identifiers/len_identifier.hpp"
+#include "identifiers/loadbool_identifier.hpp"
+#include "identifiers/loadk_identifier.hpp"
+#include "identifiers/loadnil_identifier.hpp"
+#include "identifiers/lt_identifier.hpp"
+#include "identifiers/mod_identifier.hpp"
+#include "identifiers/move_identifier.hpp"
+#include "identifiers/mul_identifier.hpp"
+#include "identifiers/newtable_identifier.hpp"
+#include "identifiers/not_identifier.hpp"
+#include "identifiers/pow_identifier.hpp"
+#include "identifiers/return_identifier.hpp"
+#include "identifiers/self_identifier.hpp"
+#include "identifiers/setglobal_identifier.hpp"
+#include "identifiers/setlist_identifier.hpp"
+#include "identifiers/settable_identifier.hpp"
+#include "identifiers/setupval_identifier.hpp"
+#include "identifiers/sub_identifier.hpp"
+#include "identifiers/tailcall_identifier.hpp"
+#include "identifiers/test_identifier.hpp"
+#include "identifiers/testset_identifier.hpp"
+#include "identifiers/tforloop_identifier.hpp"
+#include "identifiers/unm_identifier.hpp"
+#include "identifiers/vararg_identifier.hpp"
+
+// custom vm identifiers
+#include "identifiers/custom_vm/newstack_identifier.hpp"
+#include "identifiers/custom_vm/settop_identifier.hpp"
