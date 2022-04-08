@@ -4,8 +4,7 @@ odld aasf full ib deobfuscator contains full deobf engine can be propagated to o
 
 (yes cus someone here already almost deobf  lurapee usin my ideas tho i dont really care)
 
-
-third party: ANTLR for lua analysis to CST
+third party: ANTLR used for sum lua analysis
 
 made in 2021 july/august till novemember i stopped updating lo
 
