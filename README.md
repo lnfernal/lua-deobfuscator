@@ -17,7 +17,7 @@ main.cpp (literally useless only skids)
 # TODO (not complete because DEVLEOPER cyclothymic is LAZY)
 z3 for storage, sat stuff (deserializer etc)
 
-make thread safeety 
+make thread safeety (stuff stfu)
 
 fix some shitty cfg passes
 
