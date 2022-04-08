@@ -29,6 +29,8 @@ use new bc i/O stream O(1) impelemetntyion for deserializer helper OK?
 
 make vm handler priority (which vm identifier to attempt verify first, and so on) ye cus i used a shitty dp called chain-of-responsibility
 
+rewrite all cfg passes, add new ones too
+
 # SUPPORT (omg cyclothymic blocks me on Discord im a poor skid)
 just dont dm him and fuck urself skid literally learn how to read code
 
